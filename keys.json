@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "nodejs-gs-test-324105",
+  "private_key_id": "2d2c4c7af8917ea18f45c569d312c0fed6d109d3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCUCbqyfxfnZDTl\nnJX+4tW195/0/iCE4RzKlACXwH1s5BE0cGVyHIzrwckWS8aEfEYNoYJnLcsOue8r\nlfysOpNYou+DyzOIKgHYe2wx+cUXzGGSH/LLheOY/eWyViZFVXwcZ08vj9UqLpnM\nzJO/x1jS2aQ5mlRh32YssOsmBjyx6wtEqLvUXuF6CmTJJWjdjYiHW7YdjoJHmbfi\nnJ6Fby0Ce4082k16RzSj9YmczvFgnDxyp+AFlnMj6FhId2QnTgxjYJwh9GIL65KA\nWHOWQcyV+JYUdgX7N+J5RZdeZsNGvOlkSxN11Uj48qIkwgIgqMAzLMztqyGisVm/\no9n6Y6c5AgMBAAECggEAC6ZBWhsMwUF+NSRvnE1y5l0saf3WhsZlOt7PNiHobNl8\nrhz7KrHq+AF5psbDQjk6VQfE6IQuwsOoecxVhCMe5b56rSsgLMKrfwLlZoBifWcw\ntWxMsa3hVXCDcxd67wFVYTHTBiniKy3cHgTqSpDwITWNyhemNMZ89p7cflNG0vRO\nvNt6ggmrTEsOoxEfn3GuXulAvCCP05HMioPR0jDzAUWq9KuLEXYvUxKO8XuNdUjY\nwqKL2wTbmqlkMGo40EYsmWPOJ7OByMwo2FqxkrkcJAQD88couUcLIYZTxYzE/zl/\nw6h29V6YjS9+EMUrQn3cvxT4NR7sd2NZSmlH10e4QQKBgQDCsci2HuQ7l+FYm8El\n98oB4KtuRMZB6RZgkEpl4ThqS/Bx0PTVDaN65x+r4wEUWNSbhuZSKT3nbf962ML6\nzozMl4UnBtaKcIWyEUWvpVT8/flxcM9lcMAMCsWrnUTLD3iApuvi2rUCamY4cyDz\nwe7D3GjDexmEXb0osp+PpINi4QKBgQDCpv4vQX02aKn862vMCK6ZmJ9MApA8fae7\nubN1onm9Dj8l+k9wAqXlO7sF6zhHlpm5C9tw97k5RZoYdEN1mGR6//hrY4gYS9E2\nsXBDh462/c+EJ5kNAUP1B9YRHR+1bVYn1EGi9RGpMAvcTzIvrqBo7Tw5GKqUDusy\ntpeLP2YnWQKBgAHsDWY24dvwwOnGB98fFiB0nlylUyu9aFolsoZU9eCexU3qWTBt\nRQrmkzp4MD+KLPcoGsf+3jyVqmsFDs+5EEzIxii/eYi+WaOLZhu4zyD8ROUozvNa\nbJrx1EfAcrhqe68RdsyzigvvDvlJsa6WYIwQdfxQD81tu3tWYBrj7eQhAoGAdHte\nDIVSGqcTYki3H0fqw/tzCBdYnPpMz6fW3oQ1+Y5295EMzGipQb42stoJub1DjFqu\nHLIBY2ZlSlD4tXxWVMysqgbLwE5Oij4wghiyrIrCDcFscz3Ynt7rmR4mhXlCX19D\nT/L7eJVJ47J4w9PqJiAhM8GxAhzTXmup0ChGRzECgYEAt5YY3rqbdnqW3iJHXieG\nCrldRoeerGmWZVZ1CH/AtLeRGzcVcI9VxuHk+yefF34uw0cLvNo1ZBk04mcun+NI\nJv6S/M9CNkEHijGmL3supk+bniXFRsgsgTCaIbdCT9IZ3ab/qIajgcAiOwMGx8CJ\n4KSCChTAvUzNlXB75o58Wq4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gsservice@nodejs-gs-test-324105.iam.gserviceaccount.com",
+  "client_id": "115552568432683650561",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gsservice%40nodejs-gs-test-324105.iam.gserviceaccount.com",
+  "mongoURI": "mongodb+srv://first:1234@cluster0.1srw2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "spreadsheetId": "1y9FaIqgfUYcuBsfFzKrdCA3-hiw6fcsD_B3dau525n4"
+}
