@@ -1,7 +1,7 @@
 # TechCurators Intern Assignment
 API to take question data from a public [google sheet](https://docs.google.com/spreadsheets/d/1y9FaIqgfUYcuBsfFzKrdCA3-hiw6fcsD_B3dau525n4/edit?usp=sharing) and insert it into MongoDB database.
 
-### The webapp will be deployed on [Heroku](#)
+### The webapp will be deployed on [Heroku](https://techcurators-intern-assignment.herokuapp.com/)
 
 ## Technologies Used
 + NodeJS
