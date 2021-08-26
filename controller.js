@@ -1,7 +1,7 @@
 //require
 const mongoose = require('mongoose');
 const {google} = require('googleapis');
-const Question = require('./Question');
+const Question = require('./question');
 const keys = require('./keys.json');
 
 //variables
