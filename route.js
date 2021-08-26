@@ -1,6 +1,6 @@
 //require
 const express = require('express');
-const Question = require('./Question');
+const Question = require('./question');
 const {savetoDB} = require('./controller');
 
 //variables
